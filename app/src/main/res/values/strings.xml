@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mvvm</string>
+    <string name = "namebtn">aceptar</string>
+    
+</resources>

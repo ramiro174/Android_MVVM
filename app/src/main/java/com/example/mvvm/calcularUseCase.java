@@ -1,0 +1,1 @@
+package com.example.mvvm;public class calcularUseCase {    public static int calcular(int numero) {        return numero * 2;    }}
